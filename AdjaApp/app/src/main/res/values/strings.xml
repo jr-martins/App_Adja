@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdjaApp</string>
+    <string name="nome">Nome:</string>
+    <string name="ver_detalhes">Ver detalhes</string>
+    <string name="biografia">biografia</string>
+
+    <string name="pr_antonio"> Pastor Antônio de Lisboa Filho</string>
+</resources>
